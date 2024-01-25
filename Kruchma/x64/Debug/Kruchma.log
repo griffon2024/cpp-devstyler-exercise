@@ -1,0 +1,18 @@
+﻿  Alcoholic.cpp
+D:\Kruchma\Alcoholic.cpp(3,12): error C2533: 'Alcoholic::{ctor}': constructors not allowed a return type
+D:\Kruchma\Alcoholic.cpp(4,1): error C2512: 'Drinks': no appropriate default constructor available
+  D:\Kruchma\Drinks.h(6,7):
+  see declaration of 'Drinks'
+  
+  Drinks.cpp
+  Kruchma.cpp
+  NoAlcoholic.cpp
+D:\Kruchma\NoAlcoholic.cpp(34,1): error C2143: syntax error: missing ';' before '}'
+  Order.cpp
+D:\Kruchma\Order.cpp(3,21): error C1004: unexpected end-of-file found
+  User.cpp
+D:\Kruchma\User.h(6,7): error C2059: syntax error: 'using namespace'
+  (compiling source file 'User.cpp')
+  
+D:\Kruchma\User.cpp(19,1): error C1004: unexpected end-of-file found
+  Generating Code...
